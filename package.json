@@ -1,6 +1,6 @@
 {
   "name": "lucas-silbernagel-smoke-effect-react",
-  "version": "1.0.4",
+  "version": "2.0.0",
   "description": "A broken smoke over efffect react component",
   "main": "index.js",
   "module": "dist/index.js",
@@ -32,6 +32,6 @@
     "react": "^18.2.0"
   },
   "dependencies": {
-    "three": "^0.106.2"
+    "three": "^0.152.2"
   }
 }
